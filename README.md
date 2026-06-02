@@ -38,5 +38,5 @@ Matplotlib · Flask · GCP · EDA · Root Cause Analysis
 
 ## 📫 Connect With Me
 - 📧 hitakshikathiriya123@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/hitakshikathiriya-3088a32ba)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hitakshi-kathiriya-3088a32ba/)
 - 📍 Ahmedabad, India | Open to Relocate | Immediate Joiner
