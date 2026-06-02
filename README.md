@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Hitakshi Kathiriya 👋
 
-<!--
-**HitakshiKathiriya/HitakshiKathiriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science & AI Professional | Python · SQL · 
+TensorFlow · Computer Vision · NLP
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+- PG Diploma — Artificial Intelligence, Humber College, Canada (2024)
+- PG Diploma — Cloud Operations, York University, Canada (2025)
+- BSc — Data Science, Gujarat University, India (2022)
+
+---
+
+## 🚀 Projects
+
+### 🔵 Personal Information Blurring — YOLOv5 & YOLOv9
+Real-time system to detect and blur faces and license 
+plates from autonomous robot camera feeds.
+- Best Model: YOLOv5l — Precision 90.6% · Recall 86.5% · mAP50 87.5%
+- Industry Partner: Kevares Inc., Canada
+- Tools: Python · YOLOv5 · YOLOv9 · CVAT · Google Colab
+
+### 🟢 Image Captioning — CNN + LSTM
+Multi-modal deep learning model on 5,000+ image-caption pairs.
+- Validation Accuracy: 85%+
+- Reduced training loss by 25% through hyperparameter tuning
+- Tools: TensorFlow · CNN · LSTM · NLP · Python
+
+---
+
+## 🛠 Skills
+Python · SQL · TensorFlow · Computer Vision · NLP ·  
+Deep Learning · YOLOv5 · YOLOv9 · Pandas · NumPy ·  
+Matplotlib · Flask · GCP · EDA · Root Cause Analysis
+
+---
+
+## 📫 Connect With Me
+- 📧 hitakshikathiriya123@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/hitakshikathiriya-3088a32ba)
+- 📍 Ahmedabad, India | Open to Relocate | Immediate Joiner
