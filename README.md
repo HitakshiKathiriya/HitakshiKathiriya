@@ -27,6 +27,11 @@ Multi-modal deep learning model on 5,000+ image-caption pairs.
 - Reduced training loss by 25% through hyperparameter tuning
 - Tools: TensorFlow · CNN · LSTM · NLP · Python
 
+### 📊 AI Job Market Excel Dashboard
+Excel analytics dashboard on 10,345 job postings.
+- 9 Charts · 4 Sheets · KPI Cards
+- Tools: Excel · EDA · Data Visualization
+
 ---
 
 ## 🛠 Skills
