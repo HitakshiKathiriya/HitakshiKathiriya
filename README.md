@@ -6,9 +6,9 @@ Data Science & AI Professional | Python · SQL · TensorFlow · NLP · Power BI 
 
 ## 🎓 Education
 
-- BSc — Data Science, Gujarat University, India (2022)
-- PG Diploma — Artificial Intelligence, Humber College, Canada (2024)
 - PG Diploma — Cloud Operations, York University, Canada (2025)
+- PG Diploma — Artificial Intelligence, Humber College, Canada (2024)
+- BSc — Data Science, Gujarat University, India (2022)
 
 ---
 
@@ -47,12 +47,13 @@ Excel analytics dashboard built on 10,345 AI job market postings from Kaggle.
 
 ## 🛠 Skills
 
-Python · SQL · TensorFlow · NLP · LLMs · Deep Learning · Computer Vision · Scikit-learn · Pandas · NumPy · Matplotlib · Power BI · MySQL · Jupyter Notebooks · MLOps · ETL Pipelines · Flask · GCP · YOLOv5 · YOLOv9 · Root Cause Analysis · EDA
+Python · SQL · TensorFlow · NLP · LLMs · Deep Learning · Computer Vision · Scikit-learn · Pandas · NumPy · Matplotlib · Power BI · MySQL · Jupyter Notebooks · MLOps · ETL Pipelines · Flask · GCP · YOLOv5 · YOLOv9 · Root Cause Analysis · EDA · Advanced Excel
 
 ---
 
 ## 📫 Connect With Me
 
 - 📧 hitakshikathiriya123@gmail.com
+- 📞 +91 9328477087
 - 💼 [LinkedIn](https://www.linkedin.com/in/hitakshi-kathiriya-3088a32ba/)
 - 📍 Ahmedabad, India | Open to Relocate to Canada & Pan-India | Immediate Joiner
