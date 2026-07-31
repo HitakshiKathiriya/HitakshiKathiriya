@@ -54,6 +54,6 @@ Python · SQL · TensorFlow · NLP · LLMs · Deep Learning · Computer Vision �
 ## 📫 Connect With Me
 
 - 📧 hitakshikathiriya123@gmail.com
-- 📞 +91 9328477087
+- 📞 +1 4378712929
 - 💼 [LinkedIn](https://www.linkedin.com/in/hitakshi-kathiriya-3088a32ba/)
-- 📍 Ahmedabad, India | Open to Relocate to Canada & Pan-India | Immediate Joiner
+- 📍 Toronto, ON | Open to Relocate to Canada | Immediate Joiner
